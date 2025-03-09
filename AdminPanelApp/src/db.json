@@ -1,0 +1,189 @@
+{
+  "statistics": {
+    "newUsers": [
+      {
+        "day": "05.02",
+        "newUsers": 200
+      },
+      {
+        "day": "10.02",
+        "newUsers": 487
+      },
+      {
+        "day": "15.02",
+        "newUsers": 678
+      },
+      {
+        "day": "20.02",
+        "newUsers": 1087
+      },
+      {
+        "day": "25.02",
+        "newUsers": 1567
+      },
+      {
+        "day": "31.02",
+        "newUsers": 2500
+      }
+    ],
+    "averageTime": [
+      {
+        "day": "05.02",
+        "averageTime": 51
+      },
+      {
+        "day": "10.02",
+        "averageTime": 52.5
+      },
+      {
+        "day": "15.02",
+        "averageTime": 53
+      },
+      {
+        "day": "20.02",
+        "averageTime": 54
+      },
+      {
+        "day": "25.02",
+        "averageTime": 54
+      },
+      {
+        "day": "31.02",
+        "averageTime": 54
+      }
+    ],
+    "newDownloads": [
+      {
+        "day": "05.02",
+        "newDownloads": 203
+      },
+      {
+        "day": "10.02",
+        "newDownloads": 1200
+      },
+      {
+        "day": "15.02",
+        "newDownloads": 1402
+      },
+      {
+        "day": "20.02",
+        "newDownloads": 4300
+      },
+      {
+        "day": "25.02",
+        "newDownloads": 6789
+      },
+      {
+        "day": "31.02",
+        "newDownloads": 12000
+      }
+    ],
+    "revenue": [
+      {
+        "day": "05.02",
+        "revenue": 500
+      },
+      {
+        "day": "10.02",
+        "revenue": 2300
+      },
+      {
+        "day": "15.02",
+        "revenue": 3023
+      },
+      {
+        "day": "20.02",
+        "revenue": 7089
+      },
+      {
+        "day": "25.02",
+        "revenue": 10234
+      },
+      {
+        "day": "31.02",
+        "revenue": 23000
+      }
+    ],
+    "revenueAndDownloads": [
+      {
+        "day": "05.02",
+        "revenue": 500,
+        "downloads": 203
+      },
+      {
+        "day": "10.02",
+        "revenue": 2300,
+        "downloads": 1200
+      },
+      {
+        "day": "15.02",
+        "revenue": 3023,
+        "downloads": 1402
+      },
+      {
+        "day": "20.02",
+        "revenue": 7089,
+        "downloads": 4300
+      },
+      {
+        "day": "25.02",
+        "revenue": 10234,
+        "downloads": 6789
+      },
+      {
+        "day": "31.02",
+        "revenue": 23000,
+        "downloads": 12000
+      }
+    ]
+  },
+  "tasks": [
+    {
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit.",
+      "time": 10,
+      "id": "1"
+    },
+    {
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit.",
+      "time": 12,
+      "id": "2"
+    },
+    {
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit.",
+      "time": 14,
+      "id": "3"
+    },
+    {
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit.",
+      "time": 16,
+      "id": "4"
+    },
+    {
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit.",
+      "time": 18,
+      "id": "5"
+    },
+    {
+      "id": "2716",
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit.",
+      "time": 20
+    }
+  ],
+  "newUsers": [
+    {
+      "name": "Adam",
+      "lastname": "Smith",
+      "id": "1"
+    },
+    {
+      "name": "Adam",
+      "lastname": "Smith",
+      "id": "2"
+    },
+    {
+      "name": "Adam",
+      "lastname": "Smith",
+      "id": "3"
+    }
+  ]
+}

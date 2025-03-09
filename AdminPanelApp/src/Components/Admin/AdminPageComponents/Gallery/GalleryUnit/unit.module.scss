@@ -1,0 +1,17 @@
+.img {
+  width: 100%;
+}
+
+.imgContainer {
+  position: relative;
+}
+
+.description {
+  text-align: center;
+  position: absolute;
+  right: 0;
+  left: 0;
+  bottom: 10px;
+  background-color: rgba(0, 0, 0, 0.5);
+  color: white;
+}

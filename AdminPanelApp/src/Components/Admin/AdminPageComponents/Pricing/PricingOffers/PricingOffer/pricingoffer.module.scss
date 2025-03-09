@@ -1,0 +1,65 @@
+.pricingContainer {
+  width: 22%;
+  display: flex;
+  flex-direction: column;
+  border: 1px solid rgb(196, 190, 190);
+
+  @media (max-width: 1500px) {
+    width: 45%;
+  }
+
+  @media (max-width: 1024px) {
+    width: 80%;
+  }
+}
+
+.title {
+  font-size: 25px;
+  font-weight: 700;
+  padding: 20px;
+  background-color: red;
+  color: white;
+  letter-spacing: 1px;
+  text-align: center;
+}
+
+.price {
+  font-size: 50px;
+  text-align: center;
+  font-weight: bold;
+  padding: 18px 0;
+  span {
+    padding-left: 4px;
+    font-size: 20px;
+  }
+}
+
+.advantagesList {
+  list-style: none;
+  text-align: center;
+  border-bottom: 1px solid rgb(196, 190, 190);
+  border-top: 1px solid rgb(196, 190, 190);
+  padding: 20px 0;
+  li {
+    font-weight: 300;
+    margin-bottom: 10px;
+  }
+  li:nth-last-child(1) {
+    margin-bottom: 0;
+  }
+}
+
+.buyButtonWrap {
+  padding: 40px;
+  text-align: center;
+
+  button {
+    padding: 15px 30px;
+    font-size: 15px;
+    background-color: #1ed085;
+    border: none;
+    border-radius: 10px;
+    color: white;
+    cursor: pointer;
+  }
+}
